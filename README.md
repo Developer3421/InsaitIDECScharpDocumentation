@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Insait Edit C Sharp/Icons/AppIconIDE.png" alt="Insait Edit Logo" width="128" height="128"/>
+  <img src="AppIconIDE.png" alt="Insait Edit Logo" width="128" height="128"/>
 </p>
 
 <h1 align="center">Insait Edit — C# IDE</h1>
