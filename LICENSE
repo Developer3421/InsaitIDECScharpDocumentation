@@ -1,0 +1,127 @@
+MIT License (with Exclusions)
+
+Copyright (c) 2024 Developer3421
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of the source code of this software, to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the source code, and to permit
+persons to whom the source code is furnished to do so, subject to the
+following conditions:
+
+1. Attribution requirement
+   Any use, reproduction, or distribution of this source code — in original
+   or modified form — must include a clear and visible attribution to the
+   original project:
+
+       Insait Edit — C# IDE
+       https://github.com/Developer3421/InsaitIDECScharpDocumentation
+
+   The attribution must appear in the source code, documentation, or any
+   other materials accompanying the distributed code.
+
+2. The above copyright notice and this permission notice shall be included in
+   all copies or substantial portions of the source code.
+
+THE SOURCE CODE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOURCE CODE OR THE USE OR OTHER DEALINGS IN
+THE SOURCE CODE.
+
+---
+
+EXCLUSIONS — All Rights Reserved
+=================================
+
+The following assets are explicitly EXCLUDED from the permissions granted
+above and are NOT covered by the MIT license terms:
+
+  a) Application UI styles
+     All visual styling definitions, theme files, color schemes, typography
+     rules, control templates, style sheets, and any other design-system
+     resources that define the look and feel of the Insait Edit application.
+
+  b) Custom graphic elements and visual assets
+     All icons, illustrations, logos, splash screens, background images,
+     decorative graphics, custom control renderings, and any other
+     purpose-designed visual elements created for the Insait Edit application,
+     including but not limited to:
+       - AppIconIDE.ico / AppIconIDE.png and any derivative icon files
+       - MSIX / Windows Store artwork
+       - In-app toolbar icons and glyph sets specific to Insait Edit
+       - AXAML-embedded image resources unique to the Insait Edit UI
+
+These excluded assets remain the exclusive intellectual property of the
+copyright holder and may NOT be used, copied, reproduced, distributed,
+modified, or incorporated into any other product or project — commercial or
+non-commercial — without explicit prior written permission from the copyright
+holder.
+
+To request permission, open an issue or contact the maintainer through the
+project repository listed above.
+
+---
+
+Ліцензія MIT (з винятками) — Українська версія
+================================================
+
+Дозвіл надається безоплатно будь-якій особі, яка отримує копію вихідного
+коду цього програмного забезпечення, використовувати, копіювати, змінювати,
+об'єднувати, публікувати, розповсюджувати, передавати на субліцензії та/або
+продавати цей вихідний код, а також дозволяти це іншим особам, за умов,
+наведених нижче.
+
+1. Обов'язкова вказівка джерела (атрибуція)
+   Будь-яке використання, відтворення або розповсюдження вихідного коду —
+   в оригінальному або зміненому вигляді — повинно містити чітке та помітне
+   зазначення оригінального проекту:
+
+       Insait Edit — C# IDE
+       https://github.com/Developer3421/InsaitIDECScharpDocumentation
+
+   Атрибуція має бути присутня у вихідному коді, документації або в будь-яких
+   інших матеріалах, що супроводжують розповсюджуваний код.
+
+2. Наведене вище повідомлення про авторське право та ця ліцензія повинні
+   включатися до всіх копій або значних частин вихідного коду.
+
+ВИХІДНИЙ КОД НАДАЄТЬСЯ «ЯК Є», БЕЗ БУДЬ-ЯКИХ ГАРАНТІЙ, ЯВНИХ АБО
+НЕПРЯМИХ, ВКЛЮЧАЮЧИ, АЛЕ НЕ ОБМЕЖУЮЧИСЬ ГАРАНТІЯМИ ПРИДАТНОСТІ ДО
+ПРОДАЖУ, ВІДПОВІДНОСТІ ПЕВНІЙ МЕТІ ТА ВІДСУТНОСТІ ПОРУШЕНЬ. АВТОРИ АБО
+ПРАВОВЛАСНИКИ НЕ НЕСУТЬ ВІДПОВІДАЛЬНОСТІ ЗА БУДЬ-ЯКІ ПОЗОВИ, ЗБИТКИ АБО
+ІНШУ ВІДПОВІДАЛЬНІСТЬ, ЩО ВИНИКАЄ З, АБО У ЗВ'ЯЗКУ З ВИХІДНИМ КОДОМ.
+
+---
+
+ВИНЯТКИ — Всі права захищено
+==============================
+
+Наступні активи явно ВИКЛЮЧЕНІ з наданих вище дозволів і НЕ підпадають
+під умови ліцензії MIT:
+
+  а) Стилі інтерфейсу застосунку
+     Усі визначення візуального оформлення, файли тем, колірні схеми, правила
+     типографіки, шаблони елементів керування, таблиці стилів та будь-які інші
+     ресурси дизайн-системи, що визначають зовнішній вигляд застосунку
+     Insait Edit.
+
+  б) Кастомні графічні елементи та візуальні ресурси
+     Усі іконки, ілюстрації, логотипи, заставки, фонові зображення, декоративна
+     графіка, кастомне відображення елементів керування та будь-які інші
+     спеціально розроблені візуальні елементи застосунку Insait Edit,
+     включаючи, але не обмежуючись:
+       - AppIconIDE.ico / AppIconIDE.png та будь-які похідні файли іконок
+       - Графіка для MSIX / Windows Store
+       - Іконки панелі інструментів та набори гліфів, специфічні для Insait Edit
+       - Графічні ресурси, вбудовані в AXAML і унікальні для інтерфейсу Insait Edit
+
+Ці виключені активи залишаються виключною інтелектуальною власністю
+правовласника і НЕ МОЖУТЬ бути використані, скопійовані, відтворені,
+розповсюджені, змінені або включені до будь-якого іншого продукту чи проекту —
+комерційного або некомерційного — без явного попереднього письмового дозволу
+правовласника.
+
+Щоб запросити дозвіл, відкрийте issue або зв'яжіться з мейнтейнером через
+репозиторій проекту, зазначений вище.
